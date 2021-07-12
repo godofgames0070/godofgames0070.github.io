@@ -60,7 +60,7 @@ nav{
     border: 1px solid black;
     text-decoration: none;
 }
-main{
+article{
     margin-top: 1em;
     background-color: rgba(0, 0, 0, 0.9);
     color: white;
@@ -92,7 +92,7 @@ div.article-div h2{
     margin: 1em 1em;
     text-align: justify;
 }
-main a{
+article a{
     text-decoration: none;
     color: inherit;
 }
