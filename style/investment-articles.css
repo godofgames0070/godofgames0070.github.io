@@ -26,7 +26,7 @@ body{
     content: url('../image/investing-bgi.jpg');
     z-index: -10;
 }
-header{
+body>header{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -60,7 +60,7 @@ nav{
     border: 1px solid black;
     text-decoration: none;
 }
-main{
+article{
     margin-top: 1em;
     background-color: rgba(0, 0, 0, 0.9);
     color: white;
@@ -74,18 +74,24 @@ main{
     width: 350px;
     height: 500px;
 }
-main h2{
+article>header{
     text-align: center;
+    font-size: 1.5em;
+    margin: 0.83em 0em;
 }
 div.article{
     display: flex;
     flex-direction: column;
     align-items: stretch;
 }
-div.article .article-quote{
+div.article{
     margin: 1em 1em;
 }
-p.heading{
+figcaption{
+    margin: 1em 1em;
+    text-align: justify;
+}
+h2.heading{
     margin: 1em 1em;
     font-size: 1.5em;
     text-align: center;
@@ -98,7 +104,7 @@ p.heading-text{
     margin: 1em 1em;
 }
 @media (min-width: 990px){
-    p.heading{
+    header.heading{
         margin: 1em 1em;
         font-size: 2em;
     }
