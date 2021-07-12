@@ -65,7 +65,7 @@ nav{
     border: 1px solid white;
     text-decoration: none;
 }
-main{
+article{
         margin-top: 1em;
         background-color: rgba(0, 0, 0, 0.7);
         color: white;
@@ -74,6 +74,12 @@ main{
         flex-direction: column;
         justify-content: flex-start;
         align-items: center;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
 }
 #current-anime, #recommended-anime, #recommended-movies{
     display: flex;
