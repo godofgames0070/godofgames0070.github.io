@@ -16,3 +16,7 @@ I don't like to fill my website with lorem ipsum so I will write randomly about 
 * [Investing Article One](https://search.google.com/test/mobile-friendly?id=etkE37XPRsTg69PejQDnQA)
 * [Investing Article Two](https://search.google.com/test/mobile-friendly?id=T6EO3HStButdy5_dUl5FTA)
 * [Anime HomePage](https://search.google.com/test/mobile-friendly?id=f3nUoS0vf1Ej_iP-_Rldpg)
+
+## The webpages have passed the HTML validation tests available [here](https://validator.w3.org/)
+
+## The webpages have passed the CSS validation tests available [here](https://jigsaw.w3.org/css-validator/)
