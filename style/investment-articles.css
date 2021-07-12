@@ -74,7 +74,7 @@ article{
     width: 350px;
     height: 500px;
 }
-article>header{
+article>h2{
     text-align: center;
     font-size: 1.5em;
     margin: 0.83em 0em;
@@ -104,7 +104,7 @@ p.heading-text{
     margin: 1em 1em;
 }
 @media (min-width: 990px){
-    header.heading{
+    h2.heading{
         margin: 1em 1em;
         font-size: 2em;
     }
