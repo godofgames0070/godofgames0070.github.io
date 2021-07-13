@@ -8,7 +8,7 @@ I don't like to fill my website with lorem ipsum so I will write randomly about 
 * Other Cool Stuff
 
 ## Quote Of The Day:
-*"History has taught us: never underestimate the amount of money, time, and effort someone will expend to thwart a security system. It's always better to assume the worst. Assume your adversaries are better than they are. Assume science and technology will soon be able to do things they cannot yet. Give yourself a margin for error. Give yourself more security than you need today. When the unexpected happens, you'll be glad you did."* – Bruce Schneier, Security Researcher
+*"Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are."* — Danny Thorpe
 
 ## All webpages are mobile friendly:
 * [Homepage](https://search.google.com/test/mobile-friendly?id=d-M-fldJc-J-e1KzMdCxcA)
